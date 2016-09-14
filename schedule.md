@@ -22,9 +22,9 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 
 | Date     | Topic        | Notes | HW |
 | ---------| ------------ | ----- | -- |
-| W 07 Sep | 1.2 numerical algorithms and errors | [ch1 slides](https://piazza.com/class_profile/get_resource/issheoft1kq48i/istkkmzqczn7o2) / [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter1.ipynb) | [HW1 out](https://piazza.com/class_profile/get_resource/issheoft1kq48i/istjs0m4yq62vv)| 
+| W 07 Sep | 1.2 numerical algorithms and errors | [ch1 slides](https://piazza.com/class_profile/get_resource/issheoft1kq48i/istkkmzqczn7o2) / [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter01.ipynb) | [HW1 out](https://piazza.com/class_profile/get_resource/issheoft1kq48i/istjs0m4yq62vv)| 
 | F 09 Sep | 1.3 algorithm properties    |       ||
-| M 12 Sep | 2.2 floating-point systems | [ch2 slides](https://piazza.com/class_profile/get_resource/issheoft1kq48i/it0fthmz2e945h) / [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter2.ipynb)||
+| M 12 Sep | 2.2 floating-point systems | [ch2 slides](https://piazza.com/class_profile/get_resource/issheoft1kq48i/it0fthmz2e945h) / [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter02.ipynb)||
 | W 14 Sep | 2.3-2.4 roundoff error accumulation and IEEE standard | ||
 | F 16 Sep |  | | HW1 due |
 | M 19 Sep |  | ||

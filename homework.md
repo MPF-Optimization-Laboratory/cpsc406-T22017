@@ -1,5 +1,7 @@
 # Homework
 
+## Submission
+
 Homework assignments for this course will be managed using
 [Git](https://git-scm.com/) and a version of
 [Bitbucket](https://bitbucket.org/) hosted by the Department of
@@ -7,7 +9,7 @@ Computer Science.
 
 You'll need an CS [undergraduate account](https://www.cs.ubc.ca/getacct/).
 
-## Retrieve the assignment repo
+### Retrieve the assignment repo
 - Login to the
   [local Bitbucket server](https://stash.ugrad.cs.ubc.ca:8443) using
   your **undergraduate** username and password.
@@ -16,7 +18,7 @@ You'll need an CS [undergraduate account](https://www.cs.ubc.ca/getacct/).
   Linux servers via `ssh remote.ugrad.cs.ubc.ca`.
 - Add your code and solutions to the repo.
 
-## Submit the assignment
+### Submit the assignment
 
 At the end of due date, the TAs will make local copies of your
 repos. You can continue to make changes after that date, but TA will
@@ -38,4 +40,13 @@ unsure about any of these rules, feel free to consult with your
 instructor or visit the departmental webpage on
 [Collaboration and Plagiarism](https://my.cs.ubc.ca/docs/collaboration-plagiarism).
 
+## Late submissions
 
+Each student has a three lecture-day delay allowance to use throughout
+the term. A delay allows you to submit by the following class without
+penalty; for example, if an assignment is due on Wednesday in class,
+then submission by Friday counts as one delay, and by Monday counts as
+two delays. Apart from using delays, late submissions are not
+accepted. Once a solution set has been posted, no more late
+submissions are permitted; consequently, you may not always be able to
+use all of your delays.

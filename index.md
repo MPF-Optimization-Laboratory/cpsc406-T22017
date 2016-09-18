@@ -35,3 +35,24 @@ Monday, Wednesday, and Friday, 11am-12pm, Dempster 301
 One of CPSC 103, CPSC 110, CPSC 111, CPSC 260, EOSC 211, PHYS 210 and
 one of MATH 101, MATH 103, MATH 105, MATH 121 and one of MATH 152,
 MATH 221, MATH 223.
+
+## Grades
+
+### Distribution
+- assignments (approximately 8): 40%
+- midterm exam: 20%
+- final exam: 40%
+
+### Policies
+
+- No makeup exam for the midterm of final. If you missed the
+midterm exam you must document a justification.
+- Midterm exam grade will not be counted if it is lower than
+your final exam grade.
+- To pass the course you must do the assigned
+coursework, write the midterm and final exams, pass the final exam,
+and obtain an overall pass average according to the grading
+scheme.
+- The instructors reserve the right to modify the grading scheme at any
+time.
+

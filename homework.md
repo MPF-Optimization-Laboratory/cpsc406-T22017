@@ -24,7 +24,7 @@ At the end of due date, the TAs will make local copies of your
 repos. You can continue to make changes after that date, but TA will
 only have the version that was collected on the due date. If you wish
 the TA to consider updates made to the repo *after* the due date, send
-email to `cpsc302@ugrad.cs.ubc.ca`, requesting that the revised
+email to `cs302@ugrad.cs.ubc.ca`, requesting that the revised
 version be graded.
 
 **Note: this request will incur a delay day.**

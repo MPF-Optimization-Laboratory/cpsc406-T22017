@@ -26,7 +26,7 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | M 12 Sep | 2.2 floating-point systems | [ch2 slides](https://piazza.com/class_profile/get_resource/issheoft1kq48i/it0fthmz2e945h) / [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter02.ipynb)||
 | W 14 Sep | 2.4 IEEE standard | ||
 | F 16 Sep | 2.3 roundoff error accumulation | | HW1 due |
-| M 19 Sep | 3.1-3.2 nonlinear equations and bisection | [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter03.ipynb)|[HW2 out](https://stash.ugrad.cs.ubc.ca:8443) |
+| M 19 Sep | 3.1-3.2 nonlinear equations and bisection | [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter03.ipynb)|[HW2 out](http://www.piazza.com/class_profile/get_resource/issheoft1kq48i/itaqfkhivr05v5) |
 | W 21 Sep |  | ||
 | F 23 Sep |  | ||
 | M 26 Sep |  | |HW2 due|

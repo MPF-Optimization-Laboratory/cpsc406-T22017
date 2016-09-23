@@ -27,15 +27,15 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | W 14 Sep | 2.4 IEEE standard | ||
 | F 16 Sep | 2.3 roundoff error accumulation | | HW1 due |
 | M 19 Sep | 3.1-3.2 nonlinear equations and bisection | [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter03.ipynb)|[HW2 out](http://www.piazza.com/class_profile/get_resource/issheoft1kq48i/itaqfkhivr05v5) |
-| W 21 Sep |  | ||
-| F 23 Sep |  | ||
+| W 21 Sep | 3.3 fixed-point iterations | ||
+| F 23 Sep | 3.4 Newton's method | ||
 | M 26 Sep |  | |HW2 due|
 | W 28 Sep |  | ||
 | F 30 Sep |  | ||
 | M 03 Oct |  | ||
 | W 05 Oct |  | ||
 | F 07 Oct |  | ||
-| M 10 Oct |  | ||
+| M 10 Oct | HOLIDAY | ||
 | W 12 Oct |  | ||
 | F 14 Oct |  | ||
 | M 17 Oct |  | ||
@@ -55,7 +55,7 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | F 18 Nov |  | ||
 | M 21 Nov |  | ||
 | W 23 Nov |  | ||
-| F 25 Nov | HOLIDAY | ||
+| F 25 Nov |  | ||
 | M 28 Nov |  | ||
 | W 30 Nov |  | ||
 | F 02 Dec | (last lecture) | ||

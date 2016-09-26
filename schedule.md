@@ -29,8 +29,8 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | M 19 Sep | 3.1-3.2 nonlinear equations and bisection | [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter03.ipynb)|[HW2 out](http://www.piazza.com/class_profile/get_resource/issheoft1kq48i/itaqfkhivr05v5) |
 | W 21 Sep | 3.3 fixed-point iterations | ||
 | F 23 Sep | 3.4 Newton's method | ||
-| M 26 Sep |  | |HW2 due|
-| W 28 Sep |  | ||
+| M 26 Sep | 3.4 Newton's method (cont) | |HW2 due|
+| W 28 Sep | 3.5 minimization | ||
 | F 30 Sep |  | ||
 | M 03 Oct |  | ||
 | W 05 Oct |  | ||

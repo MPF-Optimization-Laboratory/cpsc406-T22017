@@ -30,7 +30,7 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | W 21 Sep | 3.3 fixed-point iterations | ||
 | F 23 Sep | 3.4 Newton's method | ||
 | M 26 Sep | 3.4 Newton's method (cont) | |HW2 due|
-| W 28 Sep | 3.5 minimization | ||
+| W 28 Sep | 3.5 minimization |[Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/minimization.ipynb) ||
 | F 30 Sep |  | ||
 | M 03 Oct |  | ||
 | W 05 Oct |  | ||

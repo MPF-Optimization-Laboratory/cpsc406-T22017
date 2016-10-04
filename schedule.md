@@ -31,10 +31,10 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | F 23 Sep | 3.4 Newton's method | ||
 | M 26 Sep | 3.4 Newton's method (cont) | |HW2 due|
 | W 28 Sep | 3.5 minimization |[Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/minimization.ipynb) ||
-| F 30 Sep |  | ||
-| M 03 Oct |  | ||
-| W 05 Oct |  | ||
-| F 07 Oct |  | ||
+| F 30 Sep | 4.1 review of basic concpts | |[HW3 out](https://piazza.com/class_profile/get_resource/issheoft1kq48i/itt2llguyk41dn)|
+| M 03 Oct | 4.2 vector and matrix norms | ||
+| W 05 Oct | 4.4 singular values | ||
+| F 07 Oct |  | |HW3 due|
 | M 10 Oct | HOLIDAY | ||
 | W 12 Oct |  | ||
 | F 14 Oct |  | ||

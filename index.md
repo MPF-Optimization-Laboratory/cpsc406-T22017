@@ -15,15 +15,6 @@ equations.
 
 Monday, Wednesday, and Friday, 11am-12pm, Dempster 301
 
-## Office Hours
-
-**Michael Friedlander**: Monday, 1-2pm, ICCS 221
-
-**Itrat Ahmed Akhter**: Monday, 3pm-4pm; and Wednesday, 9am-10am.
-(Demco Learning Center;  Table 1 on Monday and Table 3 on Wednesday)
-
-**Michael Wathen**: Tuesday, 9am-10am; Thursday, 9am-10am. (Demco Learninc Center)
-
 ## Textbook
 
 *[A First Course in Numerical Methods](http://bookstore.siam.org/cs07/)*,

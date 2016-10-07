@@ -34,13 +34,13 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | F 30 Sep | 4.1 review of basic concpts | |[HW3 out](https://piazza.com/class_profile/get_resource/issheoft1kq48i/itt2llguyk41dn)|
 | M 03 Oct | 4.2 vector and matrix norms | ||
 | W 05 Oct | 4.4 singular values | ||
-| F 07 Oct |  | |HW3 due|
+| F 07 Oct | 5.1 Gaussian elimination and backward substitution | |HW3 due|
 | M 10 Oct | HOLIDAY | ||
-| W 12 Oct |  | ||
+| W 12 Oct |  | |HW4 out|
 | F 14 Oct |  | ||
-| M 17 Oct |  | ||
+| M 17 Oct |  | |HW4 due (no late day)|
 | W 19 Oct |  | ||
-| F 21 Oct | midterm exam | ||
+| F 21 Oct | midterm exam (in class) | ||
 | M 24 Oct |  | ||
 | W 26 Oct |  | ||
 | F 28 Oct |  | ||

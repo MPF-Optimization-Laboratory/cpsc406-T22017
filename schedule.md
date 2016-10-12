@@ -36,10 +36,10 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | W 05 Oct | 4.4 singular values | ||
 | F 07 Oct | 5.1 Gaussian elimination and backward substitution | [Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter04.ipynb)|HW3 due|
 | M 10 Oct | HOLIDAY | ||
-| W 12 Oct |  | |HW4 out|
+| W 12 Oct | 5.2 LU decomposition | |HW4 out|
 | F 14 Oct |  | ||
-| M 17 Oct |  | |HW4 due (no late day)|
-| W 19 Oct |  | ||
+| M 17 Oct |  | ||
+| W 19 Oct |  | |HW4 due (no late day)|
 | F 21 Oct | midterm exam (in class) | ||
 | M 24 Oct |  | ||
 | W 26 Oct |  | ||

@@ -40,9 +40,9 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | F 14 Oct | 5.3 pivoting strategies | ||
 | M 17 Oct | 5.8 estimating errors and the condition number | ||
 | W 19 Oct | 5.6 sparse matrices | |HW4 due (no late day)|
-| F 21 Oct | | ||
+| F 21 Oct | 5.5 Cholesky | ||
 | M 24 Oct | **midterm exam** (in class) | ||
-| W 26 Oct |  | ||
+| W 26 Oct | 6.1 | least-squares |[Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/least-squares.ipynb)|
 | F 28 Oct |  | ||
 | M 31 Oct |  | ||
 | W 02 Nov |  | ||

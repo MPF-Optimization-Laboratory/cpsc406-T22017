@@ -31,7 +31,7 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | F 23 Sep | 3.4 Newton's method | ||
 | M 26 Sep | 3.4 Newton's method (cont) | |HW2 due|
 | W 28 Sep | 3.5 minimization |[Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/minimization.ipynb) ||
-| F 30 Sep | 4.1 review of basic concepts | |[HW3 out](https://piazza.com/class_profile/get_resource/issheoft1kq48i/itt2llguyk41dn) / [Julia notebook Ch4](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter04.ipynb)|
+| F 30 Sep | 4.1 review of basic concepts |[Julia notebook Ch4](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter04.ipynb) |[HW3 out](https://piazza.com/class_profile/get_resource/issheoft1kq48i/itt2llguyk41dn)|
 | M 03 Oct | 4.2 vector and matrix norms | ||
 | W 05 Oct | 4.4 singular values | ||
 | F 07 Oct | 5.1 Gaussian elimination and backward substitution | [Julia notebook Ch5](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/Chapter05.ipynb)|HW3 due|
@@ -42,8 +42,7 @@ This is a tentative schedule showing the number of anticipated lectures spent on
 | W 19 Oct | 5.6 sparse matrices | |HW4 due (no late day)|
 | F 21 Oct | 5.5 Cholesky | ||
 | M 24 Oct | **midterm exam** (in class) | | HW5 out|
-| W 26 Oct | 6.1 least-squares
-| |[Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/least-squares.ipynb)| |
+| W 26 Oct | 6.1 least-squares|[Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/least-squares.ipynb)| |
 | F 28 Oct |  | ||
 | M 31 Oct |  | |HW5 due|
 | W 02 Nov |  | ||

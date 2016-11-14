@@ -25,7 +25,7 @@ The numbers before each topic typically correspond to the section numbers in the
 |16 | F 14 Oct | 5.3 pivoting strategies | ||
 |17 | M 17 Oct | 5.8 estimating errors and the condition number | ||
 |18 | W 19 Oct | 5.5 Cholesky | |HW4 due (no late day)|
-|19 | F 21 Oct | 5.6 sparse matrices | ||
+|19 | F 21 Oct | 5.6 sparse matrices |https://github.com/mpf-teaching/cpsc302-T12016/blob/master/notebooks/sparse-matrices.ipynb ||
 | | M 24 Oct | **midterm exam** (in class) | | HW5 out|
 |20 | W 26 Oct | 6.1 least-squares|[Julia notebook](https://nbviewer.jupyter.org/url/www.cs.ubc.ca/~mpf/cpsc302-T12016/notebooks/least-squares.ipynb)| |
 |21 | F 28 Oct | 6.1 normal equations | ||
@@ -33,9 +33,9 @@ The numbers before each topic typically correspond to the section numbers in the
 |23 | W 02 Nov | 6.2 building orthogonal bases | ||
 |24 | F 04 Nov | 6.3 Gram-Schmidt orthogonalization | |HW6 out|
 |25 | M 07 Nov | 7.1 iterative methods | ||
-|26 | W 09 Nov | 7.2 stationary methods | ||
+|26 | W 09 Nov | 7.2 stationary methods |https://github.com/mpf-teaching/cpsc302-T12016/blob/master/notebooks/stationary-methods.ipynb ||
 |   | F 11 Nov | HOLIDAY | ||
-|27 | M 14 Nov | 7.4 steepest descent method | | HW6 due / HW7 out|
+|27 | M 14 Nov | 7.4 steepest descent method | https://github.com/mpf-teaching/cpsc302-T12016/blob/master/notebooks/steepest-descent.ipynb| HW6 due / HW7 out|
 |28 | W 16 Nov | 7.4 conjugate gradients method |  ||
 |29 | F 18 Nov |  | ||
 |30 | M 21 Nov |  | |HW7 due / HW8 out|

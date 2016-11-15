@@ -44,4 +44,5 @@ The numbers before each topic typically correspond to the section numbers in the
 |33 | M 28 Nov |  | |HW8 due / HW9 out (short)|
 |34 | W 30 Nov |  | ||
 |35 | F 02 Dec | (last lecture) | |HW9 due (or on Monday, no penalty)|
+|   | W 21 Dec | FINAL Exam (8:30am in DMP 310) | | |
 

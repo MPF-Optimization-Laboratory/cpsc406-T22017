@@ -37,9 +37,9 @@ The numbers before each topic typically correspond to the section numbers in the
 |   | F 11 Nov | HOLIDAY | ||
 |27 | M 14 Nov | 7.4 steepest descent method | [Julia notebook](https://github.com/mpf-teaching/cpsc302-T12016/blob/master/notebooks/steepest-descent.ipynb)| HW6 due / HW7 out|
 |28 | W 16 Nov | 7.4 conjugate gradients method |  ||
-|29 | F 18 Nov |  | ||
-|30 | M 21 Nov |  | |HW7 due / HW8 out|
-|31 | W 23 Nov |  | ||
+|29 | F 18 Nov | 8.1 power method and variants | ||
+|30 | M 21 Nov | 8.1 PageRank | |HW7 due / HW8 out|
+|31 | W 23 Nov | 8.2 singular value decomposition | ||
 |32 | F 25 Nov |  | ||
 |33 | M 28 Nov |  | |HW8 due / HW9 out (short)|
 |34 | W 30 Nov |  | ||

@@ -39,9 +39,9 @@ The numbers before each topic typically correspond to the section numbers in the
 |28 | W 16 Nov | 7.4 conjugate gradients method |  ||
 |29 | F 18 Nov | 8.1 power method and variants | ||
 |30 | M 21 Nov | 8.1 PageRank | |HW7 due / HW8 out|
-|31 | W 23 Nov | 8.2 singular value decomposition | ||
-|32 | F 25 Nov |  | ||
-|33 | M 28 Nov |  | |HW8 due / HW9 out (short)|
+|31 | W 23 Nov | 8.2 singular value decomposition | [Julia notebook](https://github.com/mpf-teaching/cpsc302-T12016/blob/master/notebooks/singular-values.ipynb)||
+|32 | F 25 Nov | 8.2 SVD and least-squares | ||
+|33 | M 28 Nov | 9.1 Newton's method |[Julia notebook](https://github.com/mpf-teaching/cpsc302-T12016/blob/master/notebooks/newton-method.ipynb) |HW8 due / HW9 out (short)|
 |34 | W 30 Nov |  | ||
 |35 | F 02 Dec | (last lecture) | |HW9 due (or on Monday, no penalty)|
 |   | W 21 Dec | FINAL Exam (8:30am in DMP 310) | | |

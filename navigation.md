@@ -1,4 +1,4 @@
-# CPSC302
+# CPSC406
 
 [gimmick: math]()
 [gimmick:theme](spacelab)

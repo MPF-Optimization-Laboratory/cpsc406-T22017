@@ -1,37 +1,28 @@
 
-# Numerical Computation for Algebraic Problems
-
-The course provides an introduction to numerical computation. Very
-frequently, mathematical problems cannot be solved precisely, and an
-approximate solution obtained by a series of calculations on a
-computer is the best one can hope to find. In the course we will look
-at a variety of mathematical problems and learn how to choose good
-numerical methods for solving them, and how to analyze the error. The
-main focus will be on linear systems of equations. We will also study
-nonlinear equations in one variable, and nonlinear systems of
-equations.
+# Computational Optimization
 
 ## Lectures
 
-Monday, Wednesday, and Friday, 11am-12pm, Dempster 301
+Tuesday and Thursday, 11am-12:30pm, DMP 110
+
+## Instructor
+
+Professor [Michael P. Friedlander](https://www.cs.ubc.ca/~mpf)
 
 ## Textbook
 
-*[A First Course in Numerical Methods](http://bookstore.siam.org/cs07/)*,
- Ascher and Greif (SIAM, 2011). The book is available online from the
- UBC Library, and available for purchase at the UBC Bookstore.
+*[Introduction to Nonlinear Optimization: Theory, Algorithms, and Applications with MATLAB](https://doi.org/10.1137/1.9781611973655)*,
+ Amir Beck (SIAM, 2014). This book is available online through the UBC Library.
 
 ## Course requirements
 
-One of CPSC 103, CPSC 110, CPSC 111, CPSC 260, EOSC 211, PHYS 210 and
-one of MATH 101, MATH 103, MATH 105, MATH 121 and one of MATH 152,
-MATH 221, MATH 223.
+One of CPSC 302, CPSC 303, or MATH 307.
 
 ## Grades
 
 ### Distribution
-- assignments (approximately 8): 40%
-- midterm exam: 20%
+- assignments (approximately 5-6): 30%
+- midterm exam: 30%
 - final exam: 40%
 
 ### Policies

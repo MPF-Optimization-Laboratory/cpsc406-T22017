@@ -1,4 +1,3 @@
-
 # Computational Optimization
 
 ## Lectures
@@ -17,6 +16,18 @@ Professor [Michael P. Friedlander](https://www.cs.ubc.ca/~mpf)
 ## Course requirements
 
 One of CPSC 302, CPSC 303, or MATH 307.
+
+## Course discussion board
+
+All course discussions and announcements will be handled via
+[Slack](https://join.slack.com/t/cpsc406-2017/signup). You must
+[join cpsc406-2017](the Slack workspace) Slack workspace using an
+email address with one of the following domains: `@ugrad.ubc.ca`,
+`@ubc.ca`, `@cs.ubc.ca`.
+
+If you wish to render math symbols using TeX\LaTeX code, you might use
+[this plugin](https://github.com/fsavje/math-with-slack). This works
+in the Slack desktop client.
 
 ## Grades
 

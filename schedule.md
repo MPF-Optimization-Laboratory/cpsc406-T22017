@@ -6,5 +6,5 @@ The numbers before each topic typically correspond to the section numbers in the
 
 | Lecture | Date | Topic    | Notes | HW |
 | -- | --------- | ------------ | ----- | -- |
-|1   | R 04 Jan  | [Introduction](https://cpsc406-2017.slack.com/files/U8N8ZLYQ1/F8PMM8L4E/01intro.pdf) |       |    |
+|1   | R 04 Jan  | [Introduction](https://piazza.com/class_profile/get_resource/jc3r8udyx4340k/jc3sesq0kqehm) |       |    |
 

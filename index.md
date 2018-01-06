@@ -22,15 +22,14 @@ One of CPSC 302, CPSC 303, or MATH 307.
 
 ## Course discussion board
 
-All course discussions and announcements will be handled via
-[Slack](https://join.slack.com/t/cpsc406-2017/signup).
-[Join the Slack workspace](https://join.slack.com/t/cpsc406-2017/signup)
-using an email address with one of the following domains:
-`@ugrad.ubc.ca`, `@ubc.ca`, `@cs.ubc.ca`.
+Note! The Slack discussion board has been closed. We'll instead be using Piazza.
 
-If you wish to render math symbols using TeX\LaTeX code, you might use
-[this plugin](https://github.com/fsavje/math-with-slack). This works
-in the Slack desktop client.
+All course discussions and announcements will be handled via
+[Piazza](piazza.com/ubc.ca/winterterm22017/cpsc406/home).
+
+- [Join the Piazza discussion group](https://join.slack.com/t/cpsc406-2017/signup)
+- You must signup using an email address with one of the following domains:
+`@ugrad.ubc.ca`, `@alumni.ubc.ca`, `@cs.ubc.ca`.
 
 ## Grades
 

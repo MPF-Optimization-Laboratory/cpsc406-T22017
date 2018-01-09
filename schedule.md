@@ -7,7 +7,7 @@ The numbers before each topic typically correspond to the section numbers in the
 | Lecture | Date      | Topic    | Notes | HW |
 | --      | --------- | -------- | ----- | -- |
 |1        | R 04 Jan  | [Introduction](https://piazza.com/class_profile/get_resource/jc3r8udyx4340k/jc3sesq0kqehm) |       |    | 
-|2        | T 09 Jan  | [Fundamentals](http://www.piazza.com/class_profile/get_resource/jc3r8udyx4340k/jc7a0sszydn9d) | Reading: chapter 1 of Beck | |
+|2        | T 09 Jan  | [Fundamentals](https://piazza.com/class_profile/get_resource/jc3r8udyx4340k/jc899eqygiz5m1) | Reading: chapter 1 of Beck | |
 |3        | R 11 Jan  |         |      |   |
 |4        | T 16 Jan  |         |      |   |
 |5        | R 18 Jan  |         |      |   |

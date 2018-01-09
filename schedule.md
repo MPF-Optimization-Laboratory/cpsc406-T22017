@@ -4,7 +4,8 @@
 
 The numbers before each topic typically correspond to the section numbers in the Ascher and Greif textbook. In some cases, however, topics covered in lecture do not precisely correspond to a section, and in those cases, the number is the book section most closely related.
 
-| Lecture | Date | Topic    | Notes | HW |
-| -- | --------- | ------------ | ----- | -- |
-|1   | R 04 Jan  | [Introduction](https://piazza.com/class_profile/get_resource/jc3r8udyx4340k/jc3sesq0kqehm) |       |    |
+| Lecture | Date      | Topic    | Notes | HW |
+| --      | --------- | -------- | ----- | -- |
+|1        | R 04 Jan  | [Introduction](https://piazza.com/class_profile/get_resource/jc3r8udyx4340k/jc3sesq0kqehm) |       |    | |
+|2        | T 09 Jan  | Fundamentals | Reading: chapter 1 of Beck | |
 

@@ -27,7 +27,7 @@ Note! The Slack discussion board has been closed. We'll instead be using Piazza.
 All course discussions and announcements will be handled via
 [Piazza](piazza.com/ubc.ca/winterterm22017/cpsc406/home).
 
-- [Join the Piazza discussion group](https://join.slack.com/t/cpsc406-2017/signup)
+- [Join the Piazza discussion group](piazza.com/ubc.ca/winterterm22017/cpsc406)
 - You must signup using an email address with one of the following domains:
 `@ugrad.ubc.ca`, `@alumni.ubc.ca`, `@cs.ubc.ca`.
 

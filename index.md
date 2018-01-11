@@ -22,8 +22,6 @@ One of CPSC 302, CPSC 303, or MATH 307.
 
 ## Course discussion board
 
-Note! The Slack discussion board has been closed. We'll instead be using Piazza.
-
 All course discussions and announcements will be handled via
 [Piazza](piazza.com/ubc.ca/winterterm22017/cpsc406/home).
 

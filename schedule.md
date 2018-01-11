@@ -8,7 +8,7 @@ The numbers before each topic typically correspond to the section numbers in the
 | --       | --------- | -------- | ----- | -- |
 |1         | R 04 Jan  | [Introduction](https://piazza.com/class_profile/get_resource/jc3r8udyx4340k/jc3sesq0kqehm) |       |    | 
 |2         | T 09 Jan  | [Fundamentals](https://piazza.com/class_profile/get_resource/jc3r8udyx4340k/jc899eqygiz5m1) | [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/Jan9.ipynb) Reading: Ch 1 of Beck | |
-|3         | R 11 Jan  | Unconstrained optimization | Reading: Ch 2 of Beck |   |
+|3         | R 11 Jan  | [Unconstrained optimization](https://piazza.com/class_profile/get_resource/jc3r8udyx4340k/jca5sjr8y1x72l) | Reading: Ch 2 of Beck |   |
 |4         | T 16 Jan  |          |      |   |
 |5         | R 18 Jan  |          |      |   |
 |6         | T 23 Jan  |          |      |   |

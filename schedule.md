@@ -10,7 +10,7 @@ The numbers before each topic typically correspond to the section numbers in the
 |2         | T 09 Jan  | Fundamentals | Reading: Ch 1 of Beck \ [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/09Jan.ipynb) | |
 |3         | R 11 Jan  | Unconstrained opt         | Reading: Ch 2 of Beck \ [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/11Jan.ipynb) | HW1 out  |
 |4         | T 16 Jan  | Unconstrained opt (cont)  |  |   |
-|5         | R 18 Jan  |          | [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/18Jan.ipynb)     | HW1 due  |
+|5         | R 18 Jan  | Least squares \ QR  | [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/18Jan.ipynb)     | HW1 due  |
 |6         | T 23 Jan  |          |      |   |
 |7         | R 25 Jan  |          |      |   |
 |8         | T 30 Jan  |          |      |   |

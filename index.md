@@ -7,7 +7,7 @@ Tuesday and Thursday, 11am-12:30pm, DMP 110
 ## Teaching staff and office hours
 
 - Professor [Michael P. Friedlander](https://www.cs.ubc.ca/~mpf). Office hrs: Thursday, 2-3p in ICCS 221
-- Zhenan Fan. Office hours: Monday, 2:00-3:00pm in ICCS X150 Table 2
+- Zhenan Fan. Office hours: Monday, 3:00-4:00pm in ICCS X150 Table 2
 - Huang Fang. Office hrs: Thursday, 3:30-4:30pm in ICCS X150 Table 1
 - Liran Li. Office hours: Friday, 10:00-11:00am in ICCS X150 Table 1
 

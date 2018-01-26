@@ -1,4 +1,4 @@
-# Schedule
+                              # Schedule
 
 ## Lectures
 
@@ -12,7 +12,7 @@ The numbers before each topic typically correspond to the section numbers in the
 |4         | T 16 Jan  | Unconstrained opt (cont)  |  |   |
 |5         | R 18 Jan  | Least squares \ QR  | [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/18Jan.ipynb)     | HW1 due  |
 |6         | T 23 Jan  | Regularized least-squares |  [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/23Jan.ipynb) | HW2 out   |
-|7         | R 25 Jan  |          |      |   |
+|7         | R 25 Jan  | Nonlinear least-squares   | [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/23Jan.ipynb)   |   |
 |8         | T 30 Jan  |          |     | HW2 due   |
 |9         | R 01 Feb  |          |      |   |
 |10        | T 06 Feb  |          |      |   |

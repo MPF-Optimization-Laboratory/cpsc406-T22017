@@ -13,8 +13,8 @@ The numbers before each topic typically correspond to the section numbers in the
 |5         | R 18 Jan  | Least squares \ QR  | Reading: Ch 3 of Beck \ [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/18Jan.ipynb)     | HW1 due  |
 |6         | T 23 Jan  | Regularized least-squares |  [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/23Jan.ipynb) | HW2 out   |
 |7         | R 25 Jan  | Nonlinear least-squares   | [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/GaussNewton.ipynb)   |   |
-|8         | T 30 Jan  | Gradient method  | Reading: Ch 4 of Beck     | HW2 due   |
-|9         | R 01 Feb  |          |      |   |
+|8         | T 30 Jan  | Gradient method  | Reading: Ch 4 of Beck \ [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/Steepest.ipynb)     | HW2 due   |
+|9         | R 01 Feb  | Scaled gradient method | [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/ScaledGradMethod.ipynb)     |   |
 |10        | T 06 Feb  |          |      |   |
 |11        | R 08 Feb  |          |      |   |
 |12        | T 13 Feb  |          |      |   |

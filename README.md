@@ -1,6 +1,6 @@
 Editing the webpage
 ===================
-- Use the following command at the terminal to start a webserver:
+Use the following command at the terminal to start a webserver:
 
     php -S 127.0.0.1:8000 -t .
 

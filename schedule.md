@@ -15,7 +15,7 @@ The numbers before each topic typically correspond to the section numbers in the
 |7         | R 25 Jan  | Nonlinear least-squares   | [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/GaussNewton.ipynb)   |   |
 |8         | T 30 Jan  | Gradient method  | Reading: Ch 4 of Beck \ [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/Steepest.ipynb)     | HW2 due   |
 |9         | R 01 Feb  | Scaled gradient method | [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/ScaledGradMethod.ipynb)     |   |
-|10        | T 06 Feb  |          |      |   |
+|10        | T 06 Feb  | Newton's method  | Reading: Ch 5 of Beck \ [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/blob/master/notebooks/Newton.ipynb)      |   |
 |11        | R 08 Feb  |          |      |   |
 |12        | T 13 Feb  |          |      |   |
 |13        | R 15 Feb  |Midterm      |      |   |

@@ -21,11 +21,11 @@ The numbers before each topic typically correspond to the section numbers in the
 |13        | R 15 Feb  |Midterm      |      |   |
 |14        | T 20 Feb  |Spring break |      |   |
 |15        | R 22 Feb  |Spring break |      |   |
-|16        | T 27 Feb  |          |      |   |
-|17        | R 01 Mar  |          |      |   |
-|18        | T 06 Mar  |          |      |   |
-|19        | R 08 Mar  |          |      |   |
-|20        | T 13 Mar  |          |      |   |
+|16        | T 27 Feb  |Convex sets          |      |   |
+|17        | R 01 Mar  |Convex functions          |      | HW 4 out  |
+|18        | T 06 Mar  |Projected gradient          |      |   |
+|19        | R 08 Mar  |Stochastic gradient descent          |      |   |
+|20        | T 13 Mar  |Geometry of LP  |      | HW 4 due  |
 |21        | R 15 Mar  |          |      |   |
 |22        | T 20 Mar  |          |      |   |
 |23        | R 22 Mar  |          |      |   |

@@ -26,11 +26,13 @@ The numbers before each topic typically correspond to the section numbers in the
 |18        | T 06 Mar  |Projected gradient          |      |   |
 |19        | R 08 Mar  |Stochastic gradient descent          |      |   |
 |20        | T 13 Mar  |Geometry of LP  |      | HW 4 due  |
-|21        | R 15 Mar  |Geometry of LP (cont)          |      |   |
+<<<<<<< HEAD
+|21        | R 15 Mar  |Geometry of LP (cont)          | [Case Study](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/tree/master/notebooks/case_study_portfolio)     |   |
 |22        | T 20 Mar  |Standard form LP |      |HW 5 out   |
 |23        | R 22 Mar  |Simplex method          |      | HW 5 due   |
 |24        | T 27 Mar  |Simplex method (cont)          | | HW 6 out |
 |25        | R 29 Mar  |LP duality          |      |   |
-|26        | T 03 Apr  |Two-person zero-sum games   |      |   |
+|26        | T 03 Apr  |Two-person zero-sum games   |  [notebook](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/tree/master/notebooks/games.ipynb)    |   |
 |27        | R 05 Apr  |Barrier methods for LP | | HW 6 due  |
+
 

@@ -26,7 +26,6 @@ The numbers before each topic typically correspond to the section numbers in the
 |18        | T 06 Mar  |Projected gradient          |      |   |
 |19        | R 08 Mar  |Stochastic gradient descent          |      |   |
 |20        | T 13 Mar  |Geometry of LP  |      | HW 4 due  |
-<<<<<<< HEAD
 |21        | R 15 Mar  |Geometry of LP (cont)          | [Case Study](https://github.com/MPF-Optimization-Laboratory/cpsc406-T22017/tree/master/notebooks/case_study_portfolio)     |   |
 |22        | T 20 Mar  |Standard form LP |      |HW 5 out   |
 |23        | R 22 Mar  |Simplex method          |      | HW 5 due   |

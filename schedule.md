@@ -26,11 +26,11 @@ The numbers before each topic typically correspond to the section numbers in the
 |18        | T 06 Mar  |Projected gradient          |      |   |
 |19        | R 08 Mar  |Stochastic gradient descent          |      |   |
 |20        | T 13 Mar  |Geometry of LP  |      | HW 4 due  |
-|21        | R 15 Mar  |          |      |   |
-|22        | T 20 Mar  |          |      |   |
-|23        | R 22 Mar  |          |      |   |
-|24        | T 27 Mar  |          |      |   |
-|25        | R 29 Mar  |          |      |   |
-|26        | T 03 Apr  |          |      |   |
-|27        | R 05 Apr  |          |      |   |
+|21        | R 15 Mar  |Geometry of LP (cont)          |      |   |
+|22        | T 20 Mar  |Standard form LP |      |HW 5 out   |
+|23        | R 22 Mar  |Simplex method          |      | HW 5 due   |
+|24        | T 27 Mar  |Simplex method (cont)          | | HW 6 out |
+|25        | R 29 Mar  |LP duality          |      |   |
+|26        | T 03 Apr  |Two-person zero-sum games   |      |   |
+|27        | R 05 Apr  |Barrier methods for LP | | HW 6 due  |
 
